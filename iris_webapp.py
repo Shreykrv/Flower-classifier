@@ -46,4 +46,4 @@ def main():
 if __name__=='__main__':
     main()
 
-st.markdown('Damodar Tiwari')
+st.markdown('Shrey Kumar')
