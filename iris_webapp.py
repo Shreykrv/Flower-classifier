@@ -17,12 +17,12 @@ def classify(num):
 def main():
     st.title("Flowers Classifier")
     html_temp = """
-    <div style="background-color:teal ;padding:10px; border-radius:50px;">
+    <div style="background-color:solid gold ;padding:11px; border-radius:60px;">
     <h2 style="color:white;text-align:center;">Iris Classification</h2>
     </div>
-    <div style="background-color:yellow; padding-top:10px; margin:10px;
-     border-radius:50px;">
-    <h6 style="color:blue;text-align:end;">Project By:-Shrey Kumar</h6>
+    <div style="background-color:grey; padding-top:11px; margin:11px;
+     border-radius:60px;">
+    <h5 style="color:blue;text-align:start;">Project By:-Shrey Kumar</h5>
     </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
