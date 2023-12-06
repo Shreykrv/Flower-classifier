@@ -22,7 +22,7 @@ def main():
     </div>
     <div style="background-color:yellow; padding-top:10px; margin:10px;
      border-radius:50px;">
-    <h6 style="color:black;text-align:center;">Project By:-Damodar Tiwari</h6>
+    <h6 style="color:blue;text-align:end;">Project By:-Shrey Kumar</h6>
     </div>
     """
     st.markdown(html_temp, unsafe_allow_html=True)
